@@ -4,24 +4,24 @@
         "profession": "Web Developer",
         "bio": "Ingeniero de sistemas, Amante de los videjuegos y del constante aprendizaje.",
         "address": "Colombia, Colombia.",
-        "social": {
-            "0": {
+        "social": [{
+            
                 "name": "facebook",
                 "url": "https://www.facebook.com/diegabeja"
             },
-            "1": {
+           {
                 "name": "twitter",
                 "url": "https://twitter.com/AbejaCruzDev"
             },
-            "2": {
+            {
                 "name": "github",
                 "url": "https://github.com/AbejaCruz"
             },
-            "3": {
+           {
                 "name": "linkedin",
                 "url": "https://www.linkedin.com/in/abejacruz/"
             }
-        },
+        ],
         "experience": {
             "0": {
                 "jobTitle": "Desarrollador VR/AR",
@@ -38,22 +38,22 @@
                 "jobDescription": "Desarrollo del Frontend de la paltaforma Tresciclaje."
             }
         },
-        "education": {
-            "0": {
+        "education": [
+            {
                 "degree": "Tecnólogo en Producción Multimedia",
                 "institution": "SENA",
                 "startDate": "Enero 2016",
                 "endDate": "Diciembre 2018",
                 "description": ""
             },
-            "1": {
+            {
                 "degree": "Ingeniería de Sistemas",
                 "institution": "Universidad Distrital Francisco José de Caldas",
                 "startDate": "Enero 2010",
                 "endDate": "Mayo 2017",
                 "description": ""
             }
-        },
+        ],
         "certificate": {
             "0": {
                 "name": "Escuela de Javascript",
