@@ -38,7 +38,7 @@
                 "jobDescription": "Desarrollo del Frontend de la paltaforma Tresciclaje."
             }
         },
-        "education": {
+        "education": [
             "0": {
                 "degree": "Tecnólogo en Producción Multimedia",
                 "institution": "SENA",
@@ -53,7 +53,7 @@
                 "endDate": "Mayo 2017",
                 "description": ""
             }
-        },
+        ],
         "certificate": {
             "0": {
                 "name": "Escuela de Javascript",
