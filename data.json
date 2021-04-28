@@ -22,22 +22,22 @@
                 "url": "https://www.linkedin.com/in/abejacruz/"
             }
         ],
-        "experience": {
-            "0": {
+        "experience": [
+            {
                 "jobTitle": "Desarrollador VR/AR",
                 "company": "Mudi S.A.S",
                 "startDate": "Mayo 2019",
                 "endDate": "Febrero 2021",
                 "jobDescription": "Desarrollo full stack de Aplicaciones de realidad amentada para la web, aplicaciones de VR para dispositivos y landing pages."
             },
-            "1": {
+            {
                 "jobTitle": "Frontend",
                 "company": "Tresciclaje",
                 "startDate": "Marzo 2017",
                 "endDate": "Diciembre 2018",
                 "jobDescription": "Desarrollo del Frontend de la paltaforma Tresciclaje."
             }
-        },
+        ],
         "education": [
             {
                 "degree": "Tecnólogo en Producción Multimedia",
@@ -54,37 +54,37 @@
                 "description": ""
             }
         ],
-        "certificate": {
-            "0": {
+        "certificate": [
+            {
                 "name": "Escuela de Javascript",
                 "institution": "Platzi",
                 "date": "2019",
                 "description": "La Escuela de JavaScript es el mejor esfuerzo de blended education, educación online y presencial para especializarte en desarrollo Full Stack con JavaScript. "
             },
-            "1": {
+            {
                 "name": "FrontEnd Developer",
                 "institution": "Platzi",
                 "date": "Enero 2019",
                 "description": "Carrera de FrontEnd de Platzi"
             }
-        },
-        "skills": {
-            "0": {
+        ],
+        "skills": [
+            {
                 "name": "HTML5",
                 "percentage": "90%"
             },
-            "1": {
+            {
                 "name": "CSS",
                 "percentage": "85%"
             },
-            "2": {
+            {
                 "name": "JavaScript",
                 "percentage": "80%"
             },
-            "3": {
+            {
                 "name": "React",
                 "percentage": "60%"
             }
-        }
+        ]
     }
 
