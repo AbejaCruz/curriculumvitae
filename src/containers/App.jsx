@@ -21,8 +21,7 @@ const GlobslStyle = createGlobalStyle`
 
 const App = () => {
   const data = useGetData();
-  console.log(data);
-  return data.length === 0 ? <h1>Cargando...</h1> : (
+  return data.length === 0 ? <h1 >Cargando...</h1> : (
     <Main>
       <GlobslStyle />
       <Sidebar>
